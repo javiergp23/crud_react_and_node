@@ -1,0 +1,1 @@
+// para configuraciones globales
